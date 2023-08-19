@@ -36,7 +36,7 @@ Gitee：[https://gitee.com/FluffyOx/FluffyDNS-uTools](https://gitee.com/FluffyOx
 
 ### ✨感谢：
 
-##### 感谢[Tim](https://github.com/Timfti)的帮助
+**感谢[Tim](https://github.com/Timfti)的帮助**
 
 
 
