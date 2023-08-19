@@ -9,7 +9,8 @@ Fluffy DNS是一个DNS记录查询工具。支持web界面，uTools以及curl命
 更多内容请查看[Fluffy DNS主仓库](https://github.com/FluffyOx/FluffyDNS)和[文档](https://docs-dq.amgl.work/)
 
 Github：[https://github.com/FluffyOx/FluffyDNS-uTools](https://github.com/FluffyOx/FluffyDNS-uTools)
-Gitee：
+
+Gitee：[https://gitee.com/FluffyOx/FluffyDNS-uTools](https://gitee.com/FluffyOx/FluffyDNS-uTools)
 
 ### 安装：
 
