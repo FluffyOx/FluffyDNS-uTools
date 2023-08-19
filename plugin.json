@@ -1,0 +1,24 @@
+{
+	"main": "./index.html",
+	"logo": "./icon.png",
+  "preload": "./preload.js",
+	"features": [
+		{
+      "code": "Fluffy DNS",
+      "explain": "Fluffy DNS",
+			"cmds": [
+          "Fluffy DNS",
+          "DNS",
+          "DNS记录查询",
+          "域名解析查询",
+        {
+            "type": "regex",
+            "label": "域名解析查询",
+            "match": "/^(((ht|f)tps?):\\/\\/)?([^!@#$%^&*?.\\s-]([^!@#$%^&*?.\\s]{0,63}[^!@#$%^&*?.\\s])?\\.)+[a-z]{2,6}\\/?/",
+            "minLength": 1,
+            "maxLength": 100
+        }
+      ]
+		}
+	]
+}
