@@ -16,7 +16,7 @@ Gitee：[https://gitee.com/FluffyOx/FluffyDNS-uTools](https://gitee.com/FluffyOx
 
 1.在uTools插件应用市场中搜索Fluffy DNS，点击安装
 
-2.从[Releases](https://github.com/FluffyOx/FluffyDNS/releases)页面下载最新版本，然后将upx文件拖拽至uTools搜索框/使用超级面板安装
+2.从[Releases](https://github.com/FluffyOx/FluffyDNS-uTools/releases)页面下载最新版本，然后将upx文件拖拽至uTools搜索框/使用超级面板安装
 
 ![图片1.png](https://img1.imgtp.com/2023/08/19/en2SwLIL.png)
 
